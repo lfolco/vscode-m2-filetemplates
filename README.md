@@ -17,4 +17,6 @@ By default, the extension expects the file templates to be placed at the followi
 ### Windows
 `C:\Users\User\AppData\Roaming\Code\User\FileTemplates`
 
+However, you can change the default location by adding the following to your user or workspace settings:
 
+`"fileTemplates.templates_dir": "path/to/my/templates"`
